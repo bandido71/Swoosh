@@ -23,7 +23,8 @@
 
         <activity android:name=".controller.LeagueActivity" />
         <activity android:name=".controller.BaseActivity" />
-        <activity android:name=".controller.SkillActivity"></activity>
+        <activity android:name=".controller.SkillActivity" />
+        <activity android:name=".controller.FinishActivity"></activity>
     </application>
 
 </manifest>
