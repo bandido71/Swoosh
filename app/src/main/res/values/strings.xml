@@ -13,7 +13,8 @@
     <string name="find_a_team"><![CDATA[Find a team in your city & dominate   the league]]></string>
     <string name="get_started">GET STARTED</string>
     <string name="i_am_a">I am a:</string>
-    <string name="begginer">BEGGINER</string>
+    <string name="begginer">BEGINNER</string>
     <string name="baller">BALLER</string>
     <string name="finish">Finish</string>
+    <string name="search_league">Looking for a co-ed beginner league near you...</string>
 </resources>
